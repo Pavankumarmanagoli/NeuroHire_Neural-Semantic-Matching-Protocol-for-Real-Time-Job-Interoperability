@@ -1,4 +1,4 @@
-# NeuroHire: Neural Semantic Matching Protocol
+# NeuroHire: Neural Semantic Matching Protocol for Real-Time Job Interoperability
 
 NeuroHire is an AI-powered job matching project that analyzes a candidate’s resume, gives overview of it and recommends relevant roles in Germany.
 
@@ -167,3 +167,4 @@ This starts the MCP server over `stdio` transport and exposes the tool:
 ## License
 
 This repository is licensed under the terms in `MIT LICENSE`.
+
