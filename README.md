@@ -9,6 +9,10 @@ It provides two interfaces:
 
 ---
 
+##  Architecture
+![Architecture](System_Architecture.png)
+
+---
 ## Features
 
 - Upload a **PDF resume** and extract text with **PyMuPDF**.
@@ -167,4 +171,5 @@ This starts the MCP server over `stdio` transport and exposes the tool:
 ## License
 
 This repository is licensed under the terms in `MIT LICENSE`.
+
 
