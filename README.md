@@ -171,5 +171,10 @@ This starts the MCP server over `stdio` transport and exposes the tool:
 ## License
 
 This repository is licensed under the terms in `MIT LICENSE`.
+---
+
+## Demo Video  
+https://drive.google.com/file/d/1JOBCv9lifTC9gn4yn9AdWkHS8mQgeSzQ/view?usp=sharing
+
 
 
